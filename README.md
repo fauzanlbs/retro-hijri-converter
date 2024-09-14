@@ -1,8 +1,8 @@
-# Retro Calendar Converter
+# Retro Hijri Converter
 
 A stylish, retro-themed web application for converting dates between the Gregorian and Hijri (Islamic) calendars. Built with React and Tailwind CSS.
 
-![Retro Calendar Converter Screenshot](https://via.placeholder.com/600x400.png?text=RETRO+HIJRI+CONVERTER)
+![Retro Hijri Converter Screenshot](https://via.placeholder.com/600x400.png?text=RETRO+HIJRI+CONVERTER)
 
 ## Features
 

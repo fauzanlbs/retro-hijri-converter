@@ -2,7 +2,7 @@
 
 A stylish, retro-themed web application for converting dates between the Gregorian and Hijri (Islamic) calendars. Built with React and Tailwind CSS.
 
-![Retro Calendar Converter Screenshot](https://via.placeholder.com/600x400.png?text=Retro+Hijri+Converter)
+![Retro Calendar Converter Screenshot](https://via.placeholder.com/600x400.png?text=RETRO+HIJRI+CONVERTER)
 
 ## Features
 
@@ -25,7 +25,7 @@ Before you begin, ensure you have met the following requirements:
 - You have installed the latest version of [Node.js and npm](https://nodejs.org/en/download/)
 - You have a Windows/Linux/Mac machine.
 
-## Installing Retro Calendar Converter
+## Installing Retro Hijri Converter
 
 To install Retro Hijri Converter, follow these steps:
 
@@ -54,7 +54,7 @@ To use Retro Hijri Converter, follow these steps:
 
 ## Contributing to Retro Hijri Converter
 
-To contribute to Retro Calendar Converter, follow these steps:
+To contribute to Retro Hijri Converter, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
